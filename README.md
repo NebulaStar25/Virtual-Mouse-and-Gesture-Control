@@ -1,16 +1,17 @@
 # Virtual Mouse & Gesture Control
 This project implements a virtual mouse using computer vision and hand gesture recognition. It allows you to control your computer mouse, perform clicks, scrolling, adjust system volume, and even change screen brightness — all using hand gestures captured by a webcam.
+
 Built with Python, OpenCV, MediaPipe, and PyAutoGUI, this project demonstrates the power of AI and HCI (Human-Computer Interaction) by replacing hardware peripherals with intuitive gesture-based controls.
 
 # Features
-Cursor Movement: Move the mouse cursor using your hand.
-Left Click & Drag: Fist gesture to grab and drag.
-Right Click: Index finger gesture.
-Double Click: Two-finger closed gesture.
-Scrolling: Minor hand pinch → scroll vertically/horizontally.
-Volume Control: Major hand pinch → increase or decrease system volume.
-Brightness Control: Adjust screen brightness with pinch gesture.
-Robust Noise Filtering: Ensures stable gesture detection using frame-based debouncing.
+- Cursor Movement: Move the mouse cursor using your hand.
+- Left Click & Drag: Fist gesture to grab and drag.
+- Right Click: Index finger gesture.
+- Double Click: Two-finger closed gesture.
+- Scrolling: Minor hand pinch → scroll vertically/horizontally.
+- Volume Control: Major hand pinch → increase or decrease system volume.
+- Brightness Control: Adjust screen brightness with pinch gesture.
+- Robust Noise Filtering: Ensures stable gesture detection using frame-based debouncing.
 
 # Tech Stack
 Python 3.x
