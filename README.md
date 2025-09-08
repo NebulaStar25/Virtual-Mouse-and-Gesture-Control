@@ -26,14 +26,14 @@ Place your hand in front of the webcam. The system will detect landmarks using M
 
 Perform gestures:
 
-# Gesture	                  Action
-- V-Sign	              Enable cursor control
-- Fist	                Drag / Hold left mouse button
-- Index Finger	        Right Click
-- Closed Fingers	      Double Click
-- Pinch (Minor hand)	  Scroll up/down/left/right
-- Pinch (Major hand)	  Adjust volume / brightness
-- Open Palm	            Neutral (no action)
+ Gesture - Action
+- V-Sign - Enable cursor control
+- Fist - Drag / Hold left mouse button
+- Index Finger - Right Click
+- Closed Fingers - Double Click
+- Pinch (Minor hand) - Scroll up/down/left/right
+- Pinch (Major hand) - Adjust volume / brightness
+- Open Palm - Neutral (no action)
 
 Press Enter (↵) to exit the program.
 
