@@ -14,24 +14,27 @@ Built with Python, OpenCV, MediaPipe, and PyAutoGUI, this project demonstrates t
 - Robust Noise Filtering: Ensures stable gesture detection using frame-based debouncing.
 
 # Tech Stack
-Python 3.x
-OpenCV — computer vision library
-MediaPipe — hand tracking and landmarks
-PyAutoGUI — mouse and keyboard automation
-PyCAW — system volume control
-screen-brightness-control — brightness adjustments
+- Python 3.x
+- OpenCV — computer vision library
+- MediaPipe — hand tracking and landmarks
+- PyAutoGUI — mouse and keyboard automation
+- PyCAW — system volume control
+- Screen-brightness-control — brightness adjustments
 
 # Usage
 Place your hand in front of the webcam. The system will detect landmarks using MediaPipe Hands.
+
 Perform gestures:
+
 # Gesture	                  Action
-V-Sign	              Enable cursor control
-Fist	                Drag / Hold left mouse button
-Index Finger	        Right Click
-Closed Fingers	      Double Click
-Pinch (Minor hand)	  Scroll up/down/left/right
-Pinch (Major hand)	  Adjust volume / brightness
-Open Palm	            Neutral (no action)
+- V-Sign	              Enable cursor control
+- Fist	                Drag / Hold left mouse button
+- Index Finger	        Right Click
+- Closed Fingers	      Double Click
+- Pinch (Minor hand)	  Scroll up/down/left/right
+- Pinch (Major hand)	  Adjust volume / brightness
+- Open Palm	            Neutral (no action)
+
 Press Enter (↵) to exit the program.
 
 # Future Improvements
